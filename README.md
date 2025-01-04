@@ -4,7 +4,7 @@ Submitted by: Uyen Duong
 
 iOS101 Prework App is an app that freshly introduces the very basic functionalities and UI elements of an iOS simulator environment using Swift in Xcode.
 
-Time spent: 2.5 hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## Required Features
 
